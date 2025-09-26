@@ -1,4 +1,4 @@
-84W DaisyFX is a multi effects unit based on the Daisy Seed microcontroller.
+DaisyMFX is a multi effects Eurorack module based on the Daisy Seed microcontroller.
 
 Features:
 - 4 banks of 5 effects (bank A: reverbs, bank B: delays, bank C: mixed, bank D: granular)
