@@ -1,12 +1,11 @@
 84W DaisyFX is a multi effects unit based on the Daisy Seed microcontroller.
 
 Features:
-- 3 effects patches (reverb, delay, chorus) and a bonus sawtooth oscillator selected using 2 high/low toggle switches
-- each patch has four parameters which can be controlled using rotary potentiometers
+- 4 banks of 5 effects (bank A: reverbs, bank B: delays, bank c: mixed, bank D: granular)
+- each patch has three parameters which can be controlled using rotary potentiometers
 - two CV inputs are available and they override one of the control parameters when in use
-- CV input 1 is a picth CV in oscillator mode
 
-All code was coproduced with Google Gemini for the Arduino IDE
+All code was coproduced with ChatGPT using Platform IO in Visual Studio Code
 
 v1.0
 
